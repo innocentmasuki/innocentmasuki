@@ -1,4 +1,4 @@
-# Hi👋🏼 Am [@InnocentMasuki](https://github.com/Diggerati) a Software Engineer.
+# Hi👋🏼 Am [@InnocentMasuki](https://innocentmasuki.me) a Software Engineer.
 ## I'm [Android Developer](https://play.google.com/store/apps/dev?id=7270525030482178332) 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiggerati&count_bg=%234078C0&title_bg=%23DFDFDF&icon=github.svg&icon_color=%234078C0&title=hits&edge_flat=false)
