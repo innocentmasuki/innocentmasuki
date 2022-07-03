@@ -1,6 +1,23 @@
 # Hi👋🏼 Am [@InnocentMasuki](https://diggerati.github.io/innocentmasuki.me/) a Software Engineer.
-## I'm [Android Developer](https://play.google.com/store/apps/dev?id=7270525030482178332) 
 
 
-- 📫 How to reach me: [innocentmasuki99@gmail.com](mailto:innocentmasuki99@gmail.com), [linkedin](https://www.linkedin.com/in/innocent-masuki-988013173/) or [twitter](https://twitter.com/MasukiInnocent)
-- 😄 Pronouns: He/Him
+
+
+
+<div align="left">
+  <a href="https://twitter.com/MasukiInnocent">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/innocent-masuki-988013173/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  
+  
+  <a href="https://app.daily.dev/digerati"><img src="devcard.svg?r=6gq" align="right" width="200" alt="Innocent Masuki's Dev Card"/></a>
+</div>
